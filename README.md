@@ -19,6 +19,8 @@ Usage
 
 If '#channel' is given, the users in #channel will be listed. Otherwise the users in the channel specified in the configuration will be listed.
 
+Example: `./list_users.pl '#yourchannel'`
+
 Requirements
 ------------
 

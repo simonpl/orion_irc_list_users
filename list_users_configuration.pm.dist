@@ -1,0 +1,6 @@
+package list_users_configuration;
+$host = 'localhost'; # MySQL-Server
+$database = 'orion_irc';
+$user = 'orion';
+$password = 'orion';
+$channel = '#help'; # Default channel, overwritten via first CLI-argument
